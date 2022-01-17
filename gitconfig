@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thiagotorrescalazans@gmail.com
+	name = Thiago Calazans
